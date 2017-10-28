@@ -15,6 +15,7 @@ Intended to help work on a fix for https://github.com/codemix/flow-runtime/issue
 * `superTypeParameters[1]` gets `State` instead of `Props`. Should this be `superTypeParameters[0]`?
 * `babel-plugin-flow-runtime` seems to transform correctly. The issue is probably in `flow-runtime`.
 * Check to see if `flow-typed` defs are up to date
+* Inspect the transpiled babel code of a react component
 
 ### Setup
 ```bash
