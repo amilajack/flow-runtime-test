@@ -3,6 +3,9 @@ This is a temporary testing repo to serve as a debugging example for flow-runtim
 Intended to help work on a fix for https://github.com/codemix/flow-runtime/issues/149
 
 ### Tips
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/amilajack/flow-runtime-test.svg)](https://greenkeeper.io/)
+
 * Look for where Component types are mapped to flow-runtime calls
 
 ### Possible areas to investigate
